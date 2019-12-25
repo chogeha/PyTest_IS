@@ -19,8 +19,3 @@ File Structure:
 	+ RG_UseCase.png: Concept of user scenario diagram.
 	+ Config\CfgInit.ini : Initial configuration.
 	+ Config\CfgReg.ini : Windows registry property check.
-	
-<a href="https://scan.coverity.com/projects/chogeha-pytest_is">
-  <img alt="Coverity Scan Build Status"
-       src="https://scan.coverity.com/projects/20097/badge.svg"/>
-</a>
